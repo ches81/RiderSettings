@@ -1,0 +1,61 @@
+<keymap version="1" name="Visual Studio OSX copy" parent="Visual Studio OSX">
+  <action id="ActivateRepositoryToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="shift meta c" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="ParameterInfo.GoToPreviousSignature" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="meta pause" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="shift meta c" second-keystroke="shift meta c" />
+  </action>
+  <action id="TriggerPlayInUnity">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="TriggerRefreshInUnity">
+    <keyboard-shortcut first-keystroke="shift meta u" second-keystroke="shift meta r" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Push" />
+  <action id="hg4idea.QFold" />
+</keymap>
