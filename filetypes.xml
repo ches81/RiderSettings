@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="SDKDSPurchase" type="AUTO_DETECTED" />
       <mapping ext="bytes" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
