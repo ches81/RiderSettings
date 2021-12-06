@@ -43,6 +43,7 @@
     <option name="widgets">
       <map>
         <entry key="DPA" value="false" />
+        <entry key="PowerSaveMode" value="true" />
       </map>
     </option>
   </component>
