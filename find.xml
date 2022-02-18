@@ -5,12 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="FILE_MASK" value="*_g.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.json</mask>
     <mask>*.cs</mask>
+    <mask>*_g.cs</mask>
   </component>
 </application>
