@@ -8,11 +8,6 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Inconsolata" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
